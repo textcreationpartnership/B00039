@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief treatise vpon the first table of the lavve, orderly disposing the principles of religion, whereby we may examine ourselues. / Written by Maister Dudley Fenner, minister of the Gospel.</title>
+            <author>Fenner, Dudley, 1558?-1587.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00039</idno>
+            <idno type="STC">STC 10768.5</idno>
+            <idno type="STC">ESTC S121298</idno>
+            <idno type="EEBO-CITATION">99856482</idno>
+            <idno type="PROQUEST">99856482</idno>
+            <idno type="VID">177611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177611)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1096:15 or 2115:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief treatise vpon the first table of the lavve, orderly disposing the principles of religion, whereby we may examine ourselues. / Written by Maister Dudley Fenner, minister of the Gospel.</title>
+                  <author>Fenner, Dudley, 1558?-1587.</author>
+               </titleStmt>
+               <extent>[55] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Richard Schilders,</publisher>
+                  <pubPlace>At Midlebrugh :</pubPlace>
+                  <date>[1588?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date conjectured by STC.</note>
+                  <note>Part 2, "The groundes of religion necessarie to be knovven of euery one that may be admitted to the Supper of the Lord" has a separate dated title page.</note>
+                  <note>Part 2 formerly STC 10773; identified as STC 10773 on reel 1096:15.</note>
+                  <note>Signatures: A-C8, D4.</note>
+                  <note>Imperfect: part 2 only at reel 1096:15; cropped, with loss of text.</note>
+                  <note>Reproductions of the originals in the British Library (reel 1096:15) and Folger Shakespeare Library (reel 2115:7).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Doctrinal --  Puritan authors --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177611:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:177611:1"/>
+            <!-- PDF PAGE 36 -->
+            <p>The <hi>Groundes of Religion</hi> neceſſarie to be knowen of euery one that may be admitted to the Supper of the Lord.</p>
+            <p>(⸫)</p>
+            <p>Plainly ſet downe in Queſtions &amp; Anſweres, by <hi>M. DVDLEY FENNER,</hi> Preacher of the worde of God, in Midlebrugh.</p>
+            <p>1587.</p>
+            <p>AT MIDLEBRVGH Imprinted by Richard Schilders.</p>
+         </div>
+      </front>
+      <body>
+         <div>
+            <pb facs="tcp:177611:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:177611:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>
+               <hi>Thoſe grounds of Religion,</hi> which are neceſſarie to be knowne of euery one that may be admitted to the Supper of the <hi>Lorde.</hi>
+            </head>
+            <p>
+               <label>QVESTION.</label>
+               <note place="margin">Of GOD.</note>
+               <lb/>
+               <hi>WHat is God?</hi>
+            </p>
+            <p>
+               <label>ANSVVERE.</label> He is<note n="a." place="margin">Iohn 4.24</note> a Spirit,<note n="b." place="margin">Exo. 3.14. Iam. 1.17. 1. Ioh. 1.1.5 and 4.16. Eſay. 43.12. Iere. 4.25. Iob. 36.5. and 37.22. Nah. 1.2.3. Hab. 3.3 4 5 Gen. 1.31. Pſal. 145.17</note> who hath no qualities or ſhadowe of chaunge in him, but whoſe very being is moſt mighty, moſt iuſt, moſt merercifull, and therefore hath made all thinges good, and gouuerned all things well,</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What is the bleſſed Trinitie?</hi>
+            </p>
+            <p>
+               <label>AN.</label> Three<note n="c." place="margin">Hag. 2.5, 6 1. Iohn. 5.7. Math. 28.19 Ioh. 14.26. Gal. 4.6. 2 Cor. 13.13</note> perſons diſtinguiſhed by their proper difference, but not ſeparated one from another, becauſe euerie one of them is one and the ſame God:<note n="d." place="margin">Pro. 8.22. Ioh 1.1.14 24 1 Cor. 8.6.</note> The Father of none:<note n="e." place="margin">Math 3.17 Luk. 2.49.</note> The Sonne begotten of the Father before all beginninges:<note n="f" place="margin">Ioh. 15.26 Iohn. 3.16. &amp; 3.18. 1 Ioh. 4.9. Pſalm 2.7. Heb. 1.5. Act 16.7. Rom. 8.9.11. Cor. 2.12.</note> The Holie Ghoſt proceeding from the Father &amp; the Sonne.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>Seeing we were</hi>
+               <note n="g." place="margin">Ge<g ref="char:cmbAbbrStroke">̄</g>. 1.26. Eph 4.24. Col. 3.10.</note> 
+               <hi>were all in Adam made good, according to God his image, howe and in what ſorte are you corrupted?</hi>
+            </p>
+            <p>
+               <label>AN.</label> By the<note n="h" place="margin">Eccle. 7.31. Rom. 5.13.14.</note> willinge fall of Adam, I
+<pb facs="tcp:177611:3"/>
+               <!-- PDF PAGE 38 -->with all menne in his loynes,<note place="margin">The corrupte <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> man.</note> deſerued to be<note n="a" place="margin">Ioh. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.25 Ephe 2.1.</note> 
+               <hi>borne ſo dead in ſinne,</hi> as I can haue no true ſeede or beginninge of goodneſſe in me, vntill both<note n="b." place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 2. Cor. 3.3.</note> 
+               <hi>my ſtonie heart be taken away and a newe heart be</hi> wholie <hi>giuen mee of God,</hi> without whoſe eſpeciall grace (al<g ref="char:EOLhyphen"/>though I can by the common gifte giuen to all men, vnderſtand, reaſon, will, and de<g ref="char:EOLhyphen"/>ſire) yet I haue no power to<note n="c." place="margin">Gen. 6.5. &amp; 8.21.</note> incline or mooue any of theſe as I ſhould doe accor<g ref="char:EOLhyphen"/>dinge to God his will.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what caſe ſtande you by meanes of this corruption?</hi>
+            </p>
+            <p>
+               <label>AN.</label> I am the<note n="d." place="margin">Ep. 2.1.2</note> childe of wrath and euerla<g ref="char:EOLhyphen"/>ſting damnation.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What doth the leaſt ſinne, as euery euill m<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>n, or the not perfect co<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ance in doe<g ref="char:EOLhyphen"/>ing the whole Lawe of God deſerue, both be<g ref="char:EOLhyphen"/>fore and after faith?</hi>
+            </p>
+            <p>
+               <label>AN.</label> That which the Apoſtle ſaith,<note n="e." place="margin">Gal. 3.10.</note> 
+               <hi>Cur<g ref="char:EOLhyphen"/>ſed,</hi> that is, euerlaſting<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> condemned <hi>as he, that continueth not to <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> whiche is writ<g ref="char:EOLhyphen"/>ten in the books of the Lawe.</hi>
+            </p>
+            <p>
+               <label>Qv.</label> 
+               <hi>Then can we not be <gap reason="illegible" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>ſled, that is, ac<g ref="char:EOLhyphen"/>qu<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ed before God <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is iudgement ſeate, by thoſe <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>od workes, which proceed from faith?</hi>
+            </p>
+            <p>
+               <label>AN.</label> No: for the moſt worthie obedience of Abraham, comming from his faith, did not iuſtifie him, but onely<note n="f." place="margin">Ro<g ref="char:cmbAbbrStroke">̄</g>. 4.3.4.5.</note> 
+               <hi>his faith which was accounted to him for righteouſnes: And
+<pb facs="tcp:177611:3"/>
+                  <!-- PDF PAGE 38 -->if the Lorde will marke what is done amiſſe by his righteous ſeruaunt,</hi>
+               <note place="margin">Pſa. 130.3. and 143.2.</note> 
+               <hi>who can abyde it?</hi>
+            </p>
+            <p>
+               <label>Qv.</label> 
+               <hi>Howe are we then acquitted before God his iudgement ſeate?</hi>
+            </p>
+            <p>
+               <note place="margin">The reſtaura<g ref="char:EOLhyphen"/>tion of man in Chriſt.</note>
+               <label>AN</label> Onely by the imputation of Chriſt his death &amp; obedience,<note n="a." place="margin">Gal. 3.13. 2. Cor. 5.21. Eſai. 53.3.4.</note> 
+               <hi>who was made a curſe to redeeme the elect fro<g ref="char:cmbAbbrStroke">̄</g> the curſe of the lawe, who knowing no ſinne, was made ſinne for the elect,</hi> that is, had all their ſinne ſo accoun<g ref="char:EOLhyphen"/>ted to him, as that he might beare the pu<g ref="char:EOLhyphen"/>niſhment of it: to this ende, that they might by the ſame way, <hi>bee made God his righteouſnes in him,</hi> not in them ſelues.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>Howe can we be made partakers of this iustification in Christ</hi>
+               <note n="b." place="margin">Ioh. 17.2.3 1. Ioh. 5.7. Rom. 1.31. and 9.5.</note> 
+               <hi>after wee knowe one God and three perſons, the Father, the Sonne, and the holy Ghost: and that Christ is per<g ref="char:EOLhyphen"/>fect God and perfect man?</hi>
+            </p>
+            <p>
+               <label>AN.</label> Onely by<note n="c." place="margin">2 Tim. 1.3 Tit. 1.1. Gal. 3.26.27 Ephe. 3.17.</note> 
+               <hi>the vnfained faith of the e<g ref="char:EOLhyphen"/>lect,</hi> which is that faith, whereby wee are able to receyue Chriſt.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>Howe doe ye knowe that yee haue that faith?</hi>
+            </p>
+            <p>
+               <label>AN.</label> By the true marke which the Apoſtle giueth, ſaying:<note n="d." place="margin">2 Cor. 13.5.</note> 
+               <hi>Proue your ſelues, whether ye be in the faith or no, whether Christ be in you or no.</hi>
+            </p>
+            <p>
+               <label>Qv.</label> 
+               <hi>Howe may we know Christ to be in vs?</hi>
+            </p>
+            <p>
+               <label>AN</label> By the three<note n="e." place="margin">1. Ioh. 5.6.7.</note> benefites wherewith he commeth vnto vs, <hi>bloud, water,</hi> &amp; <hi>ſpirit.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:177611:4"/>
+               <!-- PDF PAGE 39 -->
+               <label>Qv</label> 
+               <hi>What is meant by</hi> Bloud?</p>
+            <p>
+               <label>AN.</label>
+               <note n="f." place="margin">l. Pe. 1.2.3. Rom. 4.25. Act. 20.28.</note> Our iuſtification co<g ref="char:cmbAbbrStroke">̄</g>ſiſting in Chriſt his righteouſnes, &amp; the forgiuenes of ſinne by his bloud-ſheadding.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What is meant by</hi> Water?</p>
+            <p>
+               <label>AN.</label> Our<note n="g." place="margin">Heb. 10.22 Tit. 2.11.12</note> ſanctification, when the grace of God teacheth vs to denie vngodlines, vnrighteouſnes, and worldly luſtes, to liue godly, righteouſly, and ſoberly in this pre<g ref="char:EOLhyphen"/>ſent worlde.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>Howe ſhall we knowe that we feele both this true mortifying or denying of ſinne, and true liuing to righteouſnes?</hi>
+            </p>
+            <p>
+               <label>AN.</label> When both from a true<note n="h." place="margin">2. Co. 7.11 1. Pet. 4.2</note> ſorrowe ac<g ref="char:EOLhyphen"/>cording to God, for euery thing we knowe forbidden of God (yea the leaſt) as all light othes, idle wordes, profitable lyes, or vaine actions, we feele <hi>a ſtudie</hi> to auoyde the firſt motions to them, a <hi>clearing of our ſelues</hi> from all ſuſpition of them, by anoyding all appearance of euill, an <hi>indignation</hi> for all ſuch things paſt, <hi>a feare,</hi> leaſt ſuch thinges by our corruption ſhould fall out againe: <hi>a great deſire</hi> to preuent them: <hi>a zeale</hi> againſt them, and <hi>a puniſhinge</hi> of them by exerci<g ref="char:EOLhyphen"/>ſing all due authoritie which God hath gi<g ref="char:EOLhyphen"/>uen vs againſt ſinne: as alſo <hi>a great ſtudie to ſpende all the rest of our time, not accor<g ref="char:EOLhyphen"/>ding to the will of men, but accordinge to the will of God.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:177611:4"/>
+               <!-- PDF PAGE 39 -->
+               <label>Qv.</label> 
+               <hi>What is ment by the Spirit?</hi>
+            </p>
+            <p>
+               <label>AN.</label> That full aſſurance which the<note n="i." place="margin">Gal. 4.6. Ro<g ref="char:cmbAbbrStroke">̄</g>. 8.15.16. Ep. 1.13.14. and 4.30. 1. Pet. 1.5.</note> 
+               <hi>Holie Ghost worketh in our heartes that wee are God his children, whereby we are ſealed vnto the day of redemption,</hi> that is, fully aſſured that <hi>wee ſhall be kept by the power of GOD through faith vnto ſaluation.</hi>
+            </p>
+            <p>
+               <label>Qv.</label> 
+               <hi>By what ordinary means is that true faith and that which followeth it, wrought in vs?</hi>
+            </p>
+            <p>
+               <label>AN.</label> By the preching of the goſpel.<note place="margin">The meanes of the working, exerciſing, con<g ref="char:EOLhyphen"/>firming, and increaſing of faith, and the fruites of it.</note> 
+               <hi>Ro<g ref="char:cmbAbbrStroke">̄</g> 10.14</hi>
+            </p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What is the cauſe that ſo manie heare the preaching of the Gospell, yea doe receiue it wit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome</hi>
+               <note n="*" place="margin">Ma. 13.20 21. Heb. 6.4.5.</note> 
+               <hi>tast, ioy, &amp; vnderſtanding, and yet obteine not this faith and the fruite of it?</hi>
+            </p>
+            <p>
+               <label>AN.</label>
+               <note n="†" place="margin">Matt. 11.25.26. Luke. 11.34 Act. 13.48. Rom. 8.30. Ro 9.11.12 18.22.23. Eph. 1.4.5. 1. Theſ. 5.9. 2. The. 2.13 1. Pet. 2.8. Iud. 4.</note> The cauſe is the vnchangeable pur<g ref="char:EOLhyphen"/>poſe of God from before all beginninges, wherein he hath (beinge moued onely by his own holy will) appointed <hi>freely to chuſe ſome to Christ vnto ſaluation through faith, for the prayſe of his riche grace:</hi> And iuſtly to caſt awaye others, when they ſhould by their owne default deſerue the ſame. <hi>Nowe this foundation ſtandeth ſure, and hath this ſeale, that the Lorde knoweth who are his:</hi> but for our owne aſſurance, <hi>Let euerie one departe from iniquitie which calleth on the name of Ieſus.</hi>
+            </p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What meanes beſides the ſeruice of God at home, muſt we chieflie vſe, to exerciſe, con<g ref="char:EOLhyphen"/>firme, and nouriſhe this faith and the fruites thereof?</hi>
+            </p>
+            <p>
+               <pb facs="tcp:177611:5"/>
+               <!-- PDF PAGE 40 -->
+               <label>AN.</label> We muſt diligentlie vſe all the workes of the publike Miniſtrie, which are preſcri<g ref="char:EOLhyphen"/>bed of God,<note n="a." place="margin">Act 2.42. Ro 12.5.6.7 1 Cor. 12.28</note> as prayer, doctrine, exhorta<g ref="char:EOLhyphen"/>tion, the Sacramentes, &amp; communicating vnto the poore.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <label>AN.</label> It is<note n="b." place="margin">1. Cor. 12.13. 1. Pet. 3.21. Rom. 4.11.</note> a ſeale wherein by the outwarde and publike workes, reſpecting both the Miniſter &amp; the Church, preſcribed of God, and ioyned with the inwarde workes aun<g ref="char:EOLhyphen"/>ſwering vnto them, is more (then in the worde only preached) liuely repreſented, and truely offered vnto all, but aſſuredlie aplied to the true members of Chriſt only, <hi>Chriſt Jeſus and the couenant of grace, fully ratified in him.</hi> For the liuely repreſenting they are called ſignes: for the effectuall aſſuring and applying ſeales.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What are the outward workes?</hi>
+            </p>
+            <p>
+               <label>AN.</label> They are<note n="c." place="margin">Ma. 28.19. Act. 2.42 &amp; 19.4.5. and 20.7. Ephe. 5.26. Act. 22.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. Ma 16.26.27 1. Co. 10.16 17. &amp; 11.23 24.25.26.</note> for the Miniſter, firſt to put apart the outwarde element or ſigne, by opening the inſtitution and couenaunt of God, by praying and giuing thankes. Se<g ref="char:EOLhyphen"/>condly, to applie the ſame as is co<g ref="char:cmbAbbrStroke">̄</g>manded.<note n="d." place="margin">Lu. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.59. Act. 2.42. 1. Co. 10.16 17 &amp; 11.22.</note> For the people to ioyne in hearinge and prayer, and to haue this ſigne ſo applyed.<note n="e." place="margin">1 Co. 10.1 2.3 &amp; 12.13</note> Now of Sacraments, there are onlie theſe two: Baptiſme, and the Lordes Supper.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What is Baptiſme?</hi>
+            </p>
+            <p>
+               <label>AN.</label>
+               <note n="f." place="margin">Mat, 3.11. Act. 22.16. 1. Pet. 3.21. Ro. 6.1. &amp;c.</note> The firſt Sacrament, wherein by the
+<pb facs="tcp:177611:5"/>
+               <!-- PDF PAGE 40 -->Miniſters once waſhing with water, into the name of the Father, the Sonne, and the holie Ghoſt, is more firmly applied, Chriſt his once ingrafting of vs into himſelfe, for the waſhing of vs by the holie Ghoſt, for our full iuſtification and continuall ſancti<g ref="char:EOLhyphen"/>fication in his righteouſneſſe, death, burial, and his reſurrection.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>What is the Lordes Supper?</hi>
+            </p>
+            <p>
+               <label>AN.</label>
+               <note n="g" place="margin">Matt. 26.26.27. 1 Co. 10.1.2.3.15.16.17. 1 Cor. 12.1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> The ſecond Sacrament, wherein by the Miniſter his putting apart, his breaking powring forth and giuinge of breade and wine, by the Churches receyuing, eating &amp; drinking of the ſame, the faithfull haue more fullie applied their daily &amp; more ef<g ref="char:EOLhyphen"/>fectuall receiuing by faith, of the body and blud of Chriſt, for the ſpiritual nouriſhing of their ſoules in iuſtification and ſanctifi<g ref="char:EOLhyphen"/>cation vnto eternall life.</p>
+            <p>
+               <label>Qv.</label> 
+               <hi>When wee come to the Supper of the Lord, how muſt we prepare our ſelues before, behaue our ſelues in the preſent worke, and reape fruite by it continually after?</hi>
+            </p>
+            <p>
+               <label>AN.</label>
+               <note n="h" place="margin">Eſa. 66.2.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1. Co. 11.28 31. &amp; 10.1.2 2 Chr 30.19 <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cor. 13.5 Pſa. 29.3.4. Ma. 5.23.24</note> Before we muſt trie our ſaith and re<g ref="char:EOLhyphen"/>pentance, not onely whether they be true, but alſo howe wee growe in them, what is the dulneſſe and weaknes of them, that we may the more feruentlie ſeeke the quick<g ref="char:EOLhyphen"/>ning and ſtrengthning of them in this Sa<g ref="char:EOLhyphen"/>crament. In the preſent worke, we muſt
+<pb facs="tcp:177611:6"/>
+               <!-- PDF PAGE 41 -->haue<note n="i." place="margin">1. Cor. 10.16. with Ioh. 17 1.2.3. &amp;c.</note> in euery outward action, the inward feeling of that which is ſignified by it, as in the putting a-part of the bread and wine, we muſt feele more aſſuredly, that Chriſtes bodie &amp; bloud was put a-part by his pray<g ref="char:EOLhyphen"/>ers, to be the foode of our ſoules:<note n="k." place="margin">Mark. 14.24. 1. Co. 11.24 Eſai. 5.3.5.</note> by the breaking of the bread, and powring forth of the wine, that his body was crucified. &amp; his bloud ſhed for vs: by the giuing and receyuing<note n="l." place="margin">1. Co. 10.15.16 and 11 23.24.25. Marke. 14.2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.23.24.</note> of them, that his body &amp; bloud is preſentlie more liuely giuen vnto vs, and receyued by faith,<note n="m" place="margin">1. Co. 10.2.3. 1. Co. 12.13. Mat. 14.22.23.24.25, 26 Pſal. 26.7.8</note> by the eating &amp; drin<g ref="char:EOLhyphen"/>king, for the nouriſhinge of our bodies, that our ſoules ſo ioyfullie feede on Chriſt by faith, as we are more fully aſſured of the forgiuenes of all, eſpeciallie particular ſinnes, of greater grace to leaue them, of eternall life in ſoule and body, as wee doe with heauenlie conſolation, ſinge prayſes vnto God, for the redemption of the world. After, by the meditation hereof,<note n="n." place="margin">Pſa. 51.6. Can 2.5. 2. Co. 13.3.4.5.</note> wee muſt be ſtrengthened in all temptations, which are againſt our iuſtifictio<g ref="char:cmbAbbrStroke">̄</g> &amp; ſanctification.</p>
+            <p>
+               <note place="margin">Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meanes of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecoueringe a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inner.</note>
+               <label>Qv.</label> 
+               <hi>What meanes are left to recouer thoſe ſinners which are fallen into any ſinne knowne to man, whom the preachinge of the worde of it ſelfe doth not reforme?</hi>
+            </p>
+            <p>
+               <label>AN.</label>
+               <note n="a." place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Math. 18.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.10. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> am. 5.16.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re are lefte for piuate offences (that is, ſuch as are obſerued of vs, and not otherwiſe notorious) priuate admonition:
+<pb facs="tcp:177611:6"/>
+               <!-- PDF PAGE 41 -->firſt by our ſelues, and if that worke not re<g ref="char:EOLhyphen"/>formation, in the preſence of one or two more.<note n="b." place="margin">Mat. 18.16.17. 1. Theſ. 5.12 Rom. 12.6.7.8. 1. Co. 12.28 Heb. 13.17.</note> For publike offences, (of whiche ſorte alſo are priuate offe<g ref="char:cmbAbbrStroke">̄</g>ces where amend<g ref="char:EOLhyphen"/>ment followeth not the ſeconde degree of admonition, the ſame beinge declared to the Gouuernours of the ſame particular Churche,) the rebukes and exhortati<g ref="char:EOLhyphen"/>ons of the Miniſters and Elders. If that worke not amendement,<note n="c." place="margin">2. The. 3.14. 1. Co. 5.11. Luk. 6.22. Gen. 4.2.3.4 Iob. 42.7.8. Iere. 36.5. Ma. 5.23.24 1. Co. 11.28 Nu 14.42.44</note> A markinge of them out by ſeparatinge them from the Communion. And laſt of all, if they a<g ref="char:EOLhyphen"/>mende not by that<note n="d." place="margin">Ma. 18.1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1. Co. 5.1.7 3. &amp;c. Gen. 17.14. Leuit. 7.25.26.27. Heb. 10.8. Num. 19.13 Gal. 5.12. 1. Tim. 1.1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> after orderly notifying it to the Churche with the conſent of the ſame, which is when no iuſt exception is taken, Exco<g ref="char:cmbAbbrStroke">̄</g>municatio<g ref="char:cmbAbbrStroke">̄</g>, or deliuering to Sa<g ref="char:EOLhyphen"/>tan, for the deſtructio<g ref="char:cmbAbbrStroke">̄</g> of the fleſh, &amp; ſauing of the ſpirit in the day of the Lord: ſo that vppon good tokens of repentaunce, and publike confeſſion,<note n="e." place="margin">2. Cor. 2.6.7.8. &amp;c.</note> he bee receyued in<g ref="char:EOLhyphen"/>to the Church againe.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>COLOS. 3.16.</hi>
+                  </bibl>
+                  <p>Let the worde of God dwell plenteouſlie in you with all wiſdome, teaching and admoni<g ref="char:EOLhyphen"/>ſhing your own ſelues in Pſalmes &amp; Hymnes and ſpirituall Songes, ſinginge with a grace in your heart to the Lorde.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177611:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:177611:7"/>
+            <!-- PDF PAGE 42 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
